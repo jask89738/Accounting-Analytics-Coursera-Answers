@@ -1,0 +1,112 @@
+AI Issues, Ethics and Bias
+
+
+
+
+Q1) Ethics in artificial intelligence is:
+
+ Something that is not an issue.
+ Something that we need to apply today.
+ Something that is entirely solved in current AI systems.
+ Something that somebody else is going to do in the future.
+
+
+Q2) One approach that helps developers avoid unintentionally creating bias in AI systems is:
+
+ Using highly specific training data from a narrow range.
+ Using a wide variety of appropriately diverse data for training.
+ Not using any training data.
+None of the above.
+
+
+
+
+Q3) Which of the following statements about IBM’s views on AI are correct?
+
+ Unbiased models and a spirit of diversity and inclusion are necessary to create fair AI systems, which can mitigate, rather than magnify, our existing prejudices.
+ AI can be applied to solve some of humanity’s most pervasive problems and create opportunity for all.
+ Data and insights belong to the people and businesses who created them. Organizations that collect, store, manage, or process data have an obligation to handle it responsibly.
+ Knowing how an AI system arrives at an outcome is key to trust. To improve transparency, we should define how we build, deploy, and manage AI systems through scientific research.
+ All of the above.
+
+
+
+
+Q4) Which of the following are examples of bias in an AI system?
+
+ AI systems in call centers providing context sensitive assistance to staff.
+ Facial recognition systems performing well for individuals of all skin tones.
+ Customers not being aware that they are interacting with a chatbot on a company website.
+ Image recognition systems associating images of kitchens, shops, and laundry with women rather than men.
+
+
+
+
+Q5) There is concern that some jobs will be replaced by AI systems. Which of the following characteristics make a job a good candidate for replacement?
+
+ Features highly creative tasks.
+ Rules-based decision-making.
+ Requires innovative problem solving.
+ Has very varied, unpredictable tasks.
+
+
+
+
+Q6) Ethical concerns with AI systems are:
+
+ Not genuinely troubling, and the concern of very few AI experts.
+ Short term and easily addressed when developing new AI systems.
+ Something that can’t be mitigated for.
+ Something that should be the concern of every AI developer, so they can be mitigated for as AI systems are developed.
+
+
+
+
+Q7) What are some of the ethical concerns around artificial intelligence?
+
+A. Racial, gender or other types of bias.
+
+B. Loss of jobs due to AI replacing workers performing repetitive tasks.
+
+C. Concern about the trustworthiness of decision-making supported by AI systems.
+
+D. Privacy, for example, as human faces are photographed and recognized in public spaces.
+
+
+
+ All of the options are correct
+ Only options A, B, and D are correct
+ None of the options are correct
+ Only options A and B are correct
+
+
+
+
+Q8) Which of the following NOT a way AI is being used to benefit humanity?
+
+
+
+ Crime: to identify criminals before they commit a crime.
+ In healthcare, AI is being used to predict where the next outbreak of a disease will occur.
+ In agriculture, AI is being used to identify and recommend treatment for plant diseases.
+ In healthcare, AI is being used to interpret scans for early detection of cancer, eye disease, and other problems.
+
+
+
+
+Q9) How many new opportunities and job roles does the World Economic Forum expect that AI will create in the next few years?
+
+7 million
+48 million
+165 million
+ 133 million
+
+
+
+
+Q10) What is a significant way in which developers of AI systems can guard against introducing bias?
+
+ Using government approved algorithms.
+ Using less varied AI systems and datasets.
+ Using only examples from their own environment as training data.
+ Providing effective training data and performing regular tests and audits.
