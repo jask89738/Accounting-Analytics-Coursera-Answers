@@ -1,0 +1,108 @@
+Number Theory
+
+
+
+
+
+Q1) Consider the following algorithm for factoring an integer N provided as input in binary): For i = 2 to (i, N/i). Which of the following statements is true?
+
+ This algorithm is not correct, because it will sometimes fail to find a factorization of N even if N is composite.
+ This algorithm is not correct, because it will sometimes output a non-trivial factorization of N even when N is prime.
+ This algorithm runs in sub-linear time, and always factors N if N is composite.
+ This algorithm is correct, but it runs in exponential time.
+
+
+
+
+Q2) Which of the following is NOT a group?
+
+ The integers under addition. 
+ The set {0, 1, 2,..., 27} under addition modulo 28.
+ The set {1,3,7,9} under multiplication modulo 10.
+ The integers under multiplication.
+
+
+
+
+
+
+Q3) Which of the following is the multiplicative inverse of 10 modulo 15?
+
+ There is none, since gcd(10, 15) =1.
+5
+10 
+1
+
+
+
+
+﻿Q4) What is [580 mod 79]? (Note that 79 is prime. Don't use a calculator/computer!)
+ 25
+
+
+
+
+
+
+Q5) How many elements are in the group Z403? (Note that 403 = 13. 31.)
+
+
+403
+402 
+290
+ 360
+
+
+
+
+
+
+Q6) Which of the following gives the 3rd root of 92 modulo 187 ? (Note that 187 = 11. 17.)
+
+ [92107 mod 187] 
+ [92160 mod 187]
+ [923mod 187]
+ [92107 mod 160]
+
+
+
+
+
+
+Q7) Which of the following problems is hard if the RSA assumption holds? In all the below, N is a product of distinct, large primes p and q, and e is relatively prime o (N).
+
+ Given N, e, and a uniform value y € ZN, find x such that xc = y mod N.
+ Given N, e, and a uniform value x € ZN, find x such that xc = y mod 
+ Given N and e, find a, y such that x = y mod N. 
+ Given N and e, find a such that = 8 mod N.
+
+
+
+
+Q8) Which of the following is a generator of Zi3?
+
+
+4
+ 2
+ Zi3 does not have a generator since it is not a cyclic group.
+3
+
+
+
+
+Q9) Z23 is a cyclic group with generator 5. In this group, what is DHS(2.20)? 1/1 point
+
+17
+5
+ 9
+22
+
+
+
+
+Q10) Let G be a cyclic group of order q and with generator g. Based only on the assumption that the discrete-logarithm problem is hard for this group, which of the following problems is hard?
+
+Find x, y such that gʻ = y.
+ Given uniform 3 € Z, and uniformy e G, compute y* .g.
+ Given a uniform y € G, find x such that gx = y.
+ Given a uniform 2 € Zg, find y such that gʻ = y.
