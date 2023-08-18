@@ -1,0 +1,85 @@
+Linking Non-financial Metrics to Financial Performance Quiz Answer
+
+Question 1)
+How can predictive analytics improve performance measurement? 
+ By increasing the organization’s understanding of the key performance drivers that should be measured.
+ By assisting in weighing different performance measures based on their relative importance.
+ By enhancing the setting of performance targets.
+All answers are correct
+ 
+
+Question 2)
+Which of the following is a key attribute of a causal business model? 
+
+A) It includes employee, customer, operational, and innovation measures.
+B) It is linked to the organization’s strategy.
+C) It articulates the hypothesized drivers of financial performance.
+Both A and C
+ Both B and C
+ A, B, and C are all correct
+
+
+Question 3)
+Which of the following choices are important when designing statistical tests of a hypothesized causal business model? (check all that apply)
+ The desired economic outcomes (e.g., profits, revenue growth, contract renewal, retention, etc.).
+ The expected time lag between changes in nonfinancial performance and resulting changes in financial performance (e.g., daily, monthly, yearly, etc.).
+ The department responsible for conducting the analyses (e.g., finance, marketing, etc.).
+ The unit of analysis (e.g., customers, employees, projects, product lines, locations, divisions, etc.).
+
+
+Question 4)
+Assume that measure A is expected to lead to improvements in measure B. If no statistically significant relationship is found between the two performance measures, what could explain the insignificant relationship?
+ A) Organizational barriers are preventing improvements in measure A from translating into improvements in measure B.
+ B) Contrary to the company’s hypothesis, improvements in the performance dimension captured by measure A do not lead to improvements in measure B.
+ C) Even though the performance dimension captured by measure A is actually a driver of measure B, the method used to calculate measure A is bad (e.g., it uses too few scale points, the questions are misleading, or it asks about performance dimensions that do not drive customers’ purchase behavior).
+ D) Either b or c could explain the insignificant relationship.
+ E) Either a, b, or c could explain the insignificant relationship.
+
+
+Question 5)
+Why is the identification of non-linearities important for setting performance targets?
+ Non-linear relationships between measures cannot be accommodated in statistical models.
+ If improvements in a non-financial performance metric are characterized by diminishing returns to scale (i.e., greater improvements yield increasing smaller or nonexistent financial returns), setting non-financial performance targets that are too high can actually lead to lower profitability.
+ Managers do not understand the concepts of increasing or diminishing returns to improvements in non-financial performance.
+ It is never appropriate to maximize scores on non-financial metrics such as employee or customer satisfaction.
+
+
+Question 6)
+How can statistical analysis of the linkages between non-financial metrics and financial performance be used to make better investment decisions?
+ The statistical analyses can replace the use of financial justification methods such as net present value and payback period.
+ The statistical analyses can ensure that the chosen investments in non-financial performance will improve financial results
+ The information can be used to forecast future cash flows from investments in non-financial performance dimensions.
+ Managers can selectively use the information to financially justify any investment they want
+
+
+Question 7)
+Assume that three non-financial performance measures (denoted X, Y, and Z and all measured on ten-point scales) are hypothesized to be drivers of future revenues. Statistical analysis reveals that a one-unit increase in X has the largest impact on future revenues. If the company’s objective is increasing overall profits, should it focus more effort on improving measure X than on improving measures Y and Z? 
+ A) Yes.
+ B) Maybe, but only after considering the difficulty of improving performance on X relative to the difficulty of improving proving performance on Y or Z.
+ C) Maybe, but only after considering the cost to improve performance on X relative to the cost to improve Y or Z.
+D) Both B and C
+
+
+Question 8)
+Which of the following is a common technical issue that makes it difficult to use analytics to link non-financial metrics to financial performance?
+ The difficulty in using statistical software packages.
+ The high cost of data storage.
+ The limited number of performance metrics that are tracked by most organizations
+ Financial and non-financial data that reside in different databases that are incompatible (e.g., have different coding structures, capture data in different levels of granularity, measure the same dimension differently, etc.).
+
+
+Question 9)
+Which of the following is NOT a common organizational issue that makes it difficult to use analytics to link non-financial metrics to financial performance?
+ Organizational participants do not want to know the answers, which may contradict their intuition or beliefs.
+ Different parts of the organization do not want to share the data.
+ Lack of resources and appropriate skill sets.
+ Most organizations do not care about non-financial performance.
+
+
+Question 10)
+Why should organizational mechanisms be established to ensure that ongoing analyses of the linkages between non-financial metrics and financial performance are conducted?
+ Ongoing analysis and questioning of results can help refine strategies, actions, and measures by revealing the lower-level root causes or drivers of performance.
+ Performance metrics that previously were key drivers of financial performance may become less important after the company has achieved its performance targets for those dimensions
+ Changes in competitive environments can make earlier analyses obsolete.
+ All answers are correct.
+
