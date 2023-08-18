@@ -1,0 +1,90 @@
+Data Types in MongoDB
+Q1) Which of the following is true regarding data types in MongoDB?
+
+ You should store money using the Number Decimal (Decimal128) data type.
+ By default MongoDB stores all numbers as doubles,
+ MongoDB has a special data type called Object id for uniquely identifying documents.
+ MongoDB supports many different data types, but you can't query documents by type.
+
+
+Deleting Data in MFlix
+Q1) Which of the following statements are true regarding deleting documents in MongoDB?
+
+ The delete_one() method lets us delete one document.
+ The remove_one() method lets us delete one document.
+ The delete_many() method lets us delete many documents.
+ The remove_many0 method lets us delete many documents.
+
+
+
+Inserting Comments in MFlix
+
+Q1) Which of the following commands inserts one document on comments collection?
+ mflix.comments.insert_one({ "a": 1})
+ mflix.comments.insert_only_one({ "a": 1 })
+ mflix.comments.insert_one({ "a": 1 },false)
+ mflix.comments.remove({ ... })
+ mflix.comments.update_many({ ... }, {"$set": {"updated": true}})
+
+
+
+Querying movies using operators
+Q1) Which of the following queries will match this movie document:
+
+Querying movies using operators
+
+
+ db.movies.find( {"tomatoes.userReviews": {"Site": 2000}})
+ db.movies.find( {"year": {"$it" : 1962}})
+ db.movies.find( ["genre": {"$not" : ["Documentary", "Short"}}})
+ db.movies.find( {"year": {"Slt: 2015, "$gte": 2000}})
+ db.movies.find({"viewerRating": {"$in" : [10,5.5, 103, 200]}})
+
+
+
+
+Querying on subdocuments
+Q1) In MongoDB, if we have subdocuments we can ...
+ ...reduce the need for database joins.
+ ... express queries using the fields of subdocuments.
+ ...not nest another subdocument inside a subdocument.
+ ...use the subdocuments to store data without limits.
+
+
+﻿
+Sort, Skip, and Limit
+Q1) Which of the following is true regarding sort, skip, and limit?
+
+ You can achieve pagination by using skip and limit together.
+ You can same time by using the limit And skip method which wraps the limit and skip methods.
+ The skip method must come before the limit.
+ Sort accepts two arguments, the sort key and the direction to sort.
+
+
+
+﻿
+The $elemMatch Operator
+
+Q1) Given a collection with the following documents:
+
+Which of the documents in the collection will be returned by the query above?
+
+
+
+Which of the documents in the collection will be returned by the query above?
+ Only documents 2 and 3.
+Only document 1.
+ None of the documents.
+ All 3 documents.
+
+
+
+
+﻿
+Updating Documents
+Q1) Which of the following are update operators?
+$add
+ $inc
+ $push
+$divide
+ $set
